@@ -1,0 +1,20 @@
+{
+	"name": "Simbox",
+	"identifier": "cm.sketch.Simbox",
+	"compatibleVersion": 3,
+	"bundleVersion": 1,
+	"icon": "icon.png",
+	"commands": [{
+		"name"      : "Simbox",
+		"script"    : "index.js",
+		"identifier": "Simbox",
+		"shortcut"  : "ctrl cmd n"
+	}],
+	"menu": {
+		"title": "Simbox",
+		"isRoot": true,
+		"items": [
+			"Simbox"
+		]
+	}
+}
